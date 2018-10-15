@@ -3,7 +3,8 @@ from bs4 import BeautifulSoup  # 用于爬取的网页文字处理
 import requests  # urllib3的应用
 # import json
 import datetime
-import time
+import numpy as np
+
 
 
 def getdates(date_info, n=0):
