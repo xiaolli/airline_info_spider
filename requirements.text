@@ -1,4 +1,9 @@
 pandas
 numpy
 BeautifulSoup
+<<<<<<< Updated upstream
 urllib3
+=======
+Urllib3
+Requests
+>>>>>>> Stashed changes
